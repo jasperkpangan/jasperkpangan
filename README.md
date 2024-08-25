@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jasperkpangan
 - 👀 I’m interested in Data Science and Geospatial analysis
-- 🌱 I’m currently learning QGIS
 - 📫 Send an e-mail to jasperkpangan@gmail.com if you want to collaborate or chat!
 
 <!---
